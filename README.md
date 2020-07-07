@@ -40,7 +40,7 @@
     ~npm start
 
 #Whats next?
-  Adding more VR to the 360 pictures
+  Adding more VR to the 360 pictures and adding more 360 pictures
 
 
 Thank you for reading, I hope you enjoy my first ReactVR App free to contact me at any time!
