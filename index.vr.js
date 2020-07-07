@@ -85,7 +85,7 @@ const styles = StyleSheet.create({
     ]
   },
   menuButton: {
-    backgroundColor: '#fff',
+    backgroundColor: '#f08080',
     borderRadius: 0.25,
     width: 0.5,
     height: 0.5,
@@ -108,7 +108,7 @@ const styles = StyleSheet.create({
     height: 1,
     borderRadius: 0.5,
     borderWidth: 0.02,
-    backgroundColor: '#fff'
+    backgroundColor: '#add8e6'
   },
   menuItemText: {
     fontSize: 0.2,
